@@ -1,0 +1,86 @@
+body {
+    background-color: pink
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.fave {
+    background-color: deeppink;
+    border-color: pink;
+    border-width: 10px;
+    border-style: dotted;
+    margin-right: 20px;
+}
+
+.shop {
+    background-color: deeppink;
+    border-color: black;
+    border-width: 10px;
+    border-style: dotted;
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center
+}
+
+.food {
+    background-color: hotpink;
+    border-color: black;
+    border-width: 10px;
+    border-style: dashed;
+    font-size: 30px;
+}
+
+.place {
+    background-color: hotpink;
+    border-color: black;
+    border-width: 10px;
+    border-style: dashed;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.list {
+    background-color: hotpink;
+    border-color: black;
+    border-width: 10px;
+    border-style: dashed;
+    font-size: 30px;
+}
+
+ul {
+    color: white
+}
+
+.other {
+    color: black;
+}
+
+.othr {
+    color: white;
+}
+
+td {
+    text-align: center;
+    border-style: solid none none dashed;
+    border-color: black white;
+}
+
+.img {
+    float: left;
+}
+
+table {
+    padding-right: 50px
+}
